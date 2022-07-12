@@ -10,7 +10,7 @@ const Hero = () => {
             <h1 className='py-2'> <span className='text-[#00d8ff]'>Trading</span> Protocol</h1>
             <p className='text-xl py-4'>Guaranteed liquidity traiding for millions of users and top Ethereum applications.</p>
             <div>
-                <button className='m-2'>Use Defi</button>
+                <button className='m-2'>Use Rudya</button>
                 <button className='m-2'>FAQ</button>
             </div>
         </div>
